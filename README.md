@@ -3,7 +3,7 @@
 > A ready-to-use Arch-based distribution focused on simplicity, performance, and customization.
 
 <p align="center">
-  <img src="assets/desktop.png" width="900">
+  <img src="desktop.png" width="900">
 </p>
 
 ## Why NovArch?
