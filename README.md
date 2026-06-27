@@ -1,49 +1,23 @@
 # NovArch Linux
 
-> A ready-to-use Arch-based distribution focused on simplicity, performance, and customization.
+**NovArch Linux** is an Arch-based live distribution built for recovery, troubleshooting, and development.
 
-<p align="center">
-  <img src="desktop.png" width="900">
-</p>
+It provides a lightweight KDE Plasma environment with essential recovery utilities, networking support, a web browser, and code editors, allowing users to boot into a fully functional workspace without installation.
 
-## Why NovArch?
+## Status
 
-NovArch provides a fully functional KDE Plasma desktop out of the box while remaining close to Arch Linux principles.
+NovArch is currently **under active development**.
 
-Instead of spending hours configuring a new installation, users get a clean, lightweight system that is ready for daily use and development.
+At this stage, it is intended to be used **only as a Live ISO**. Installation support is planned for a future release.
 
-## Features
+## Download
 
-| | |
-|---|---|
-| 🖥 Desktop | KDE Plasma |
-| 📦 Package Base | Arch Linux |
-| ⚡ Performance | Lightweight configuration |
-| 🛠 Installer | Calamares |
-| 🚫 Bloat | Essential applications only |
-| 🎨 Customization | Fully user-controlled |
+The latest release is available from the project's Releases page and the official download mirror.
 
-## Philosophy
+## Documentation
 
-NovArch is not designed to replace Arch Linux.
+Complete documentation, release notes, and project information are available on the official website.
 
-Its goal is to provide a streamlined starting point while preserving the freedom to modify every aspect of the system.
+## License
 
-## Ideal For
-
-- New Arch users
-- Developers
-- KDE enthusiasts
-- Customization-focused users
-- Daily desktop usage
-
-## Roadmap
-
-- [ ] First public ISO
-- [ ] Website release
-- [ ] Automated CI builds
-- [ ] Documentation portal
-
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome.
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
