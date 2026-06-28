@@ -12,7 +12,8 @@ At this stage, it is intended to be used **only as a Live ISO**. Installation su
 
 ## Download
 
-The latest release is available from the project's Releases page and the official download mirror.
+The latest release is available at the official website of **NovArch Linux**
+              https://novarchlinux.github.io/novarchlinux/
 
 ## Documentation
 
